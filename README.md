@@ -88,7 +88,7 @@ class ResponseModel {
     @x.either("ok", "failed")
     readonly status: "ok" | "failed";
 
-    @x.arrayModel(DataModel)
+    @x.modelArray(DataModel)
     @x.maxLength(50)
     readonly data: DatalModel[];
 }
