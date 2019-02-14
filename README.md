@@ -73,7 +73,7 @@ Practical example:
 ```ts
 import {prop, x, ConstraintUnion} from "jsonx"
 
-// Join two constraint in a single, re-usable one.
+// Join two constraints in a single, re-usable one.
 const age: ConstraintUnion = [x.unsignedInteger(), x.minMax(1, 100)];
 
 class DataModel {
