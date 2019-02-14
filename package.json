@@ -1,0 +1,22 @@
+{
+    "name": "jsonx",
+    "version": "1.0.0",
+    "description": "Utility package to transform JSON property names using decorators",
+    "main": "dist/index.js",
+    "scripts": {
+        "build": "tsc"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/cloudrex/jsonx.git"
+    },
+    "keywords": [
+        "json"
+    ],
+    "author": "Atlas <cloudrex@outlook.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/cloudrex/jsonx/issues"
+    },
+    "homepage": "https://github.com/cloudrex/jsonx#readme"
+}
