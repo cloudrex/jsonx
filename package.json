@@ -18,5 +18,8 @@
     "bugs": {
         "url": "https://github.com/cloudrex/jsonx/issues"
     },
-    "homepage": "https://github.com/cloudrex/jsonx#readme"
+    "homepage": "https://github.com/cloudrex/jsonx#readme",
+    "devDependencies": {
+        "typescript": "^3.3.3"
+    }
 }
