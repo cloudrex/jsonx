@@ -20,6 +20,6 @@
     },
     "homepage": "https://github.com/cloudrex/jsonx#readme",
     "devDependencies": {
-        "typescript": "^3.3.3"
+        "typescript": "^3.5.2"
     }
 }
